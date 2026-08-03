@@ -14,3 +14,7 @@ scripts/x-analyze.mjs
 scripts/x-deepdive.mjs
 scripts/x-distill.mjs
 scripts/stripe-revenue.mjs
+
+# Customer outreach drafts — contain customer emails and PII.
+# Reviewed and excluded 2026-08-03. Keep local only; never commit.
+docs/outreach-drafts/
