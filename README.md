@@ -4,6 +4,8 @@
 
 # 💰 Show Me The Money · 来财
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2T024VDBG)
+
 [![npm version](https://img.shields.io/npm/v/@orrisai/show-me-the-money?label=npm&color=blue)](https://www.npmjs.com/package/@orrisai/show-me-the-money)
 [![Latest release](https://img.shields.io/github/v/release/iamzifei/show-me-the-money?label=release&color=green)](https://github.com/iamzifei/show-me-the-money/releases)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-orange.svg)](LICENSE)
