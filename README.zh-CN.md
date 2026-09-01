@@ -19,6 +19,11 @@
 
 **作者** · [X / @jamesai](https://x.com/jamesai) · [小红书 / 在悉尼和稀泥](https://www.xiaohongshu.com/user/profile/5af26425e8ac2b0a9bc030d2)
 
+> **个人使用、内部工具、学习研究：免费。**
+> 把它放进你对外销售的产品里、转售、或去掉署名，需要商业 / OEM 授权 ——
+> 年度或永久，见 **[COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)**
+> 或直接邮件 <james@orris.ai>。
+
 ---
 
 ## 🎯 战绩 — 实打实的数据

@@ -77,8 +77,14 @@ Every commercial license, unless the written order says otherwise:
 
 ## 5. How to get one
 
-Email the author with (a) a one-line description of the service, (b) who pays for
-it, and (c) which tier you want. You'll get a one-page order and an invoice.
+**Email <james@orris.ai>** with (a) a one-line description of the service, (b) who pays
+for it, and (c) which tier you want. You'll get a one-page order and an invoice,
+usually within two business days.
 
-- GitHub: <https://github.com/iamzifei/show-me-the-money>
+Subject line that gets read fastest: `Commercial license — <your company>`
+
+Other ways to reach the author, if email is inconvenient:
+
 - X: <https://x.com/JamesAI>
+- GitHub: <https://github.com/iamzifei/show-me-the-money> (public — do not post
+  commercial terms in an issue; use email for anything with numbers in it)

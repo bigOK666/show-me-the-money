@@ -21,6 +21,11 @@
 
 **Author** · [X / @jamesai](https://x.com/jamesai) · [小红书 / 在悉尼和稀泥](https://www.xiaohongshu.com/user/profile/5af26425e8ac2b0a9bc030d2)
 
+> **Free for personal use, internal tooling, learning and research.**
+> Shipping it inside something you sell, redistributing it, or dropping the credit
+> needs a commercial / OEM license — annual or perpetual, see **[COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)**
+> or just email <james@orris.ai>.
+
 ---
 
 ## 🎯 Why this exists — the receipts
@@ -455,4 +460,4 @@ CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0)
 
 - Personal / learning / research: use freely
 - Public derivative works: attribute source
-- Commercial use / embedding / OEM: requires a separate license — see [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)
+- Commercial use / embedding / OEM: requires a separate license — see [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md), or email <james@orris.ai>
